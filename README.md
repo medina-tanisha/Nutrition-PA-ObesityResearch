@@ -1,6 +1,6 @@
 ### Nutrition, Physical Activity and Obesity Data a Project with Python
 
-## Python file contains more information about data retrieval and proposals. 
+#### Python file contains more information about data retrieval and proposals. 
 
 ### Summary
 With all the visualizations and information I have gathered from each I would like to propose a larger 
