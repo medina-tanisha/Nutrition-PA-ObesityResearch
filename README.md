@@ -2,6 +2,8 @@
 
 #### Python file contains more information about data retrieval and proposals. 
 
+#### Data found here: https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system/resource/0280bb9c-4de8-4b95-9642-93f727c4d305
+
 ### Summary
 With all the visualizations and information I have gathered from each I would like to propose a larger 
 research question. 
